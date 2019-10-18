@@ -86,4 +86,4 @@ pyobjc-framework-SystemConfiguration==4.2.2
 pyobjc-framework-Vision==4.2.2
 pyobjc-framework-WebKit==4.2.2
 requests>=2.20.0
-urllib3==1.23
+urllib3==1.24.2
